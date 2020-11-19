@@ -31,11 +31,14 @@ This is the workflow we are going to cover:
 
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Another Sheet to Cheat](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+[More Markdown, this time directly from Github](https://guides.github.com/features/mastering-markdown/)  
+
 
 [Github workflow](https://guides.github.com/introduction/flow/)  
 [Github Guides](https://guides.github.com/)  
 [Github Docu](https://docs.github.com/en)  
 
-[gitignore Template](https://www.toptal.com/developers/gitignore)  
+[Gitignore Template](https://www.toptal.com/developers/gitignore)  
+[Understand Licenses](https://choosealicense.com/)  
 
 
