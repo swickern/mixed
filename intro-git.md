@@ -40,5 +40,6 @@ This is the workflow we are going to cover:
 
 [Gitignore Template](https://www.toptal.com/developers/gitignore)  
 [Understand Licenses](https://choosealicense.com/)  
+[Github Actions](https://docs.github.com/en/free-pro-team@latest/actions)  
 
 
